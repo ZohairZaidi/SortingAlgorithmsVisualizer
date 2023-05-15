@@ -26,4 +26,4 @@ To run this program, you need to install [python](https://www.python.org/downloa
   * Numpy
   * Scipy
 
-Additionally, to view each change in the sorting algorithm, create a folder named "frames" in your working directory.
+Additionally, to view each change in the sorting algorithm, create a folder named "frames" in your working directory. This is where images of the sorting process will be stored.
