@@ -3,6 +3,13 @@
 ## Introduction
 Sorting Algorithm Visualizer is a powerful tool that allows users to witness the step-by-step execution of various sorting algorithms through an intuitive graphical interface. Whether you are a student studying algorithms or a developer looking to optimize your code, this visualizer provides valuable insights into the inner workings and efficiency of sorting algorithms.
 
+## Key Features
+
+- **Step-by-Step Visualization:** With Sorting Algorithm Visualizer, you can observe each individual step of the sorting process in real-time. This allows you to understand how different sorting algorithms rearrange elements to achieve the final sorted order.
+
+- **Array Access Count:** Ever wondered how many times an algorithm accesses elements during sorting? Our visualizer keeps track of the number of element accesses, giving you a quantitative measure of algorithmic efficiency and providing valuable information for comparative analysis.
+
+- **Color-Coded Visualization:** To enhance the understanding of the sorting process, elements are color-coded to represent their state at any given time. This makes it easy to visualize how elements are moved and compared, making the algorithm's behavior crystal clear.
 ## Demo
 
 https://user-images.githubusercontent.com/75513427/180559130-300d7c57-2757-4221-9cd9-19e6f4fa7370.mov
