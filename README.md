@@ -1,7 +1,7 @@
 # Sorting Algorithms Visualizer 
 
 ## Introduction
-[Sorting Algorithm] (https://www.programiz.com/dsa/sorting-algorithm) Visualizer is a powerful tool that allows users to witness the step-by-step execution of various sorting algorithms through an intuitive graphical interface. Whether you are a student studying algorithms or a developer looking to optimize your code, this visualizer provides valuable insights into the inner workings and efficiency of sorting algorithms.
+Sorting Algorithm Visualizer is a powerful tool that allows users to witness the step-by-step execution of various sorting algorithms through an intuitive graphical interface. Whether you are a student studying algorithms or a developer looking to optimize your code, this visualizer provides valuable insights into the inner workings and efficiency of sorting algorithms.
 
 ## Demo
 
