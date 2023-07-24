@@ -10,6 +10,18 @@ Sorting Algorithm Visualizer is a powerful tool that allows users to witness the
 - **Array Access Count:** Ever wondered how many times an algorithm accesses elements during sorting? Our visualizer keeps track of the number of element accesses, giving you a quantitative measure of algorithmic efficiency and providing valuable information for comparative analysis.
 
 - **Color-Coded Visualization:** To enhance the understanding of the sorting process, elements are color-coded to represent their state at any given time. This makes it easy to visualize how elements are moved and compared, making the algorithm's behavior crystal clear.
+
+## Supported Sorting Algorithms
+
+The Sorting Algorithm Visualizer currently supports the following sorting algorithms:
+
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Heap Sort
+
 ## Demo
 
 https://user-images.githubusercontent.com/75513427/180559130-300d7c57-2757-4221-9cd9-19e6f4fa7370.mov
