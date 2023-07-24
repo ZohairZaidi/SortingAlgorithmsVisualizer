@@ -1,7 +1,7 @@
 # Sorting Algorithms Visualizer 
 
 ## Introduction
-This is a program to help visualize and understand various [sorting algorithms](https://www.programiz.com/dsa/sorting-algorithm). Implementations include bubble sort, insertion sort, quick sort, heap sort, and selection sort. The colour yellow, represents when the program is reading the array while the colour red represents when the program is switching the array. Furthermore, the program allows you to view the number of times the array was accessed.
+[Sorting Algorithm] (https://www.programiz.com/dsa/sorting-algorithm) Visualizer is a powerful tool that allows users to witness the step-by-step execution of various sorting algorithms through an intuitive graphical interface. Whether you are a student studying algorithms or a developer looking to optimize your code, this visualizer provides valuable insights into the inner workings and efficiency of sorting algorithms.
 
 ## Demo
 
