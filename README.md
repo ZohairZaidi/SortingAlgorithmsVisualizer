@@ -22,15 +22,6 @@ The Sorting Algorithm Visualizer currently supports the following sorting algori
 - Quick Sort
 - Heap Sort
 
-## How to Use
-
-1. Clone the repository to your local machine.
-2. Open the project in your preferred IDE or code editor.
-3. Run the application and select the sorting algorithm you want to visualize.
-4. Observe the graphical representation of the sorting algorithm in action, step-by-step.
-5. Analyze the array access count and the color-coded element movement to gain insights into the efficiency of the chosen algorithm.
-
-
 ## Demo
 
 https://user-images.githubusercontent.com/75513427/180559130-300d7c57-2757-4221-9cd9-19e6f4fa7370.mov
@@ -47,6 +38,13 @@ https://user-images.githubusercontent.com/75513427/180571498-448ee8f0-1e13-447f-
 
 https://user-images.githubusercontent.com/75513427/180559438-63556e60-13f2-4f73-a959-b9636c5dd388.mov
 
+## How to Use
+
+1. Clone the repository to your local machine.
+2. Open the project in your preferred IDE or code editor.
+3. Run the application and select the sorting algorithm you want to visualize.
+4. Observe the graphical representation of the sorting algorithm in action, step-by-step.
+5. Analyze the array access count and the color-coded element movement to gain insights into the efficiency of the chosen algorithm.
 
 ## Requirements
 To run this program, you need to install [python](https://www.python.org/downloads/) and the following libraries:   
